@@ -39,7 +39,9 @@
     "url": "https://github.com/daviortega/core-bio/issues"
   },
   "homepage": "https://github.com/daviortega/core-bio#readme",
-  "dependencies": {},
+  "dependencies": {
+    "through2": "^2.0.3"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "coveralls": "^2.12.0",
